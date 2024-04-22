@@ -7,6 +7,7 @@ Sequoia theme adapted to APP
 # Instructions
 
 - Prefferences/Themes/Paste the codes.
+- check helix docs [here](https://docs.helix-editor.com/themes.html)
 
 
 # Available themes:
